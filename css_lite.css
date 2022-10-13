@@ -1,0 +1,20 @@
+.head{
+    background: bisque;
+    color: aqua;
+}
+.head_two{
+    background: #00b2b2;
+    color: #0c0000;
+}
+.content{
+    background: blue;
+    color: #050000;
+    font-size: 25px;
+}
+.text{
+    background: chocolate;
+    color: #000000;
+    font-size: 30px;
+}
+
+
